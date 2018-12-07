@@ -7,7 +7,7 @@ set -ex
 #==================================================
 
 # Update current apt packages
-apt-get update
+sudo apt-get update
 
 #=========================================================================
 # Commands below this line would not be transferable to a docker container
