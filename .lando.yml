@@ -1,0 +1,6 @@
+name: abc-ci-test
+recipe: pantheon
+config:
+  framework: wordpress
+  site: abc-ci-test
+  id: 244ece60-4250-4094-b563-4915812868ef
